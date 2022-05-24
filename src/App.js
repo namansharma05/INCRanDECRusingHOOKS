@@ -1,9 +1,9 @@
-import UseHooks from './hooks/useHooks.js';
-
+// import UseHooks from './hooks/useHooks.js';
+import UseReducer from './hooks/useReducer'
 function App() {
   return (
     <>
-      <UseHooks />
+      <UseReducer />
     </>
   );
 }
